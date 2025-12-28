@@ -1,0 +1,1 @@
+In this project I will be creating agents that grabs the necessary sources to make an engaging short videos and which will be put into a short video generating platform and finally will be creating a shorts video at the end
